@@ -21,14 +21,13 @@ google_ad_client:
 post_limit: 5
 
 
-title : fullit
-tagline: A responsive templeate built for jekyll3
+title : Karen Bourgeois
+tagline: Full Stack Developer/Software Quality Assurance Manual Tester
 author :
   name : fullit
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  feedburner : fullit
+  email : karenabourgeois@gmail.com
+  github : kzefram
+ 
 
 twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
